@@ -6,4 +6,4 @@ Repositório criado para o desafio de projeto
 
 ## Anotações
 
-**[Introdução ao C# e .NET]**()**
+**[Introdução ao C# e .NET](https://github.com/rodriguesvictor/dio-desafio-github/blob/main/Introdução%20ao%20C%23%20e%20.NET/Anotações.md)**
