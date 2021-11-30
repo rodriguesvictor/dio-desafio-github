@@ -6,6 +6,6 @@ Repositório criado para o desafio de projeto
 
 ## Anotações
 
-**[Introdução ao C# e .NET](https://github.com/rodriguesvictor/dio-desafio-github/blob/main/Introdução%20ao%20C%23%20e%20.NET/Anotações.md)**
+**[Introdução ao C# e .NET](https://github.com/rodriguesvictor/dio-desafio-github/tree/main/Introdução%20ao%20C%23%20e%20.NET)**
 
 **[IDE Instalação e Configuração(Visual Studio)](https://github.com/rodriguesvictor/dio-desafio-github/tree/main/IDE%20Instalação%20e%20Configuração%20(Visual%20Studio))**
