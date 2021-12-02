@@ -94,8 +94,37 @@ Podemos assim, sobrescrever métodos das classes filhas para que se comportem de
 >      }
 > ```
 
+**Classes Abstratas**
+
+Tem como objetivo ser exclusivamente um modelo para ser herdado, portanto não pode ser instanciada.
+
+Você pode implementar métodos ou deixa-los a cargo de quem herdar.
+
+**Classes Seladas**
+
+Uma classe selada tem como objetivo de impedir que outras classes façam uma herança dela, ou seja, nenhuma classe pode ser sua derivada.
+Também existem métodos e propriedades seladas.
+
+**Classes Objetos**
+
+A classe **System.Object** é a mãe de todas as classes na hierarquia do .NET
+Todas as classes derivam, direta ou indiretamente da classe **Object**,
+e ela tem como objetivo prover serviços de baixo nível para suas classes filhas.
+
+**Interfaces**
+
+Uma interface é um contrato que pode ser implementado por uma classe.
+É como se fosse uma classe abstrata, podendo definir métodos abstratos para serem implementados.
+Assim como uma classe abstrata, uma interface não pode ser instanciada.
+Pode se dizer que as **Interfaces** veio trazer o conceito de Herança Múltipla no C#.
+
 ## Saber mais
 
 [Linguagens e tipos de paradigmas utilizados por elas](https://en.wikipedia.org/wiki/Comparison_of_mult-paradigm_programming_languages)
 
 [POO C#, Microsoft tutoriais](https://docs.microsoft.com/pt-br/dotnet/csharp/fundamentals/tutorials/oop)
+
+[Classes Seladas](https://dotnettutorials.net/lesson/sealed-class-methods-csharp/)
+
+[Classe Object](https://docs.microsoft.com/pt-br/dotnet/api/system.object)
+
